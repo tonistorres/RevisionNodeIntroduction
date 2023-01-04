@@ -1,0 +1,6 @@
+
+  Nome do Cliente é:tonis
+  Peso: 90
+  Altura: 1.65
+  IMC: 33.06
+  

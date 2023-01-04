@@ -1,0 +1,1 @@
+xablau agora consegui lê e escrever um arquivo de forma automatica

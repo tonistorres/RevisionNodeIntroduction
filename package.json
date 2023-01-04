@@ -1,0 +1,24 @@
+{
+  "name": "xrevisionode",
+  "version": "1.0.0",
+  "description": "![image node](node.png)",
+  "main": "0-index.js",
+  "scripts": {
+    "start": "node 0-index.js",
+    "test": "echo \"Não existe arquivo de teste ainda\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonistorres/zero-revision-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonistorres/zero-revision-node/issues"
+  },
+  "homepage": "https://github.com/tonistorres/zero-revision-node#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
